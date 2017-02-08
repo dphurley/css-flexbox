@@ -31,7 +31,7 @@ Let's start out by talking about a problem that anybody who has written CSS has 
 
 ![centered div](img/centered_div.png)
 
-Example on [Codepen](http://codepen.io/awhitley1233/pen/ygJzJW)
+Example on [Codepen](https://codepen.io/dphurley/pen/KaGKLo)
 
 #### You Tell Me: What Should I Try?
 
