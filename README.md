@@ -39,7 +39,7 @@ Example on [Codepen](https://codepen.io/dphurley/pen/KaGKLo)
 <html>
   <body>
     <div> Div 1 </div>
-  </body>
+  </body>``
 </html>
 ```
 
@@ -95,7 +95,7 @@ body {
 }
 ```
 
-View solution [here](http://codepen.io/awhitley1233/pen/EZyvMY)
+View solution [here](http://codepen.io/dphurley/pen/PWywEE)
 
 ## How It Works (10 minutes / 0:10)
 
@@ -130,7 +130,7 @@ I want my footer to lie along the bottom of my page. Once I've accomplished that
 
 ![flexbox layout](img/flex_box_layout.png)
 
-[Example on CodePen](http://codepen.io/awhitley1233/pen/ygJzqy)
+[Example on CodePen](http://codepen.io/dphurley/pen/wgYBXX)
 
 #### You Tell Me: What Should I Try?
 
@@ -215,7 +215,7 @@ main {
 }
 ```
 
-[Solution on CodePen](http://codepen.io/awhitley1233/pen/PWzOPg)
+[Solution on CodePen](http://codepen.io/dphurley/pen/zNmxMv)
 
 ## You Do: More Flexbox Properties (25 minutes / 1:00)
 
